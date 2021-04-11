@@ -4,7 +4,9 @@ G1A
 
 Problème de départ : Cigarette smokers problem
 
-Cette interprétation du problème implique un resto'U, un "serveur" du crous et 4 élèves à l'estomac vide.
-Les élèves doivent composer leurs hamburgers avec 3 ingrédients: le pain, la salade, la sauce et le steak.
-Le serveur du crous donnera 3 ingrédients aléatoires.
-Dans la version "intéressante" du problème original, le code des fumeurs peut être modifié : ce sera donc ici le cas pour le code des élèves. On ne pourra pas toucher au code du serveur (qui sera inspiré de celui de l'agent du problème original).
+Little book of semaphores: https://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf
+
+Cette interpretation du problème implique un jeu de cartes avec un robot distibuteur de cartes, un robot distributeur et 3 joueurs.
+Le jeu de cartes n'est composé que de têtes (Valets, Reines et Rois) et est infini et chaque joueur se voit assigné une tête.
+A chaque tour la machine distribue 2 têtes différentes, le joueur qui voit sa tête assignée absente de la table prends les deux cartes de la table et gagne un point. 
+Dans la version "intéréssante" du problème original, le code des joueurs devra être modifié mais pas celui du robot

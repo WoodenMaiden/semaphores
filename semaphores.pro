@@ -7,3 +7,23 @@ SOURCES += \
         main.cpp
 
 LIBS = /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.65.1 /usr/lib/x86_64-linux-gnu/libboost_system.so.1.65.1
+
+HEADERS += \
+    cartes.h \
+    cartes.h \
+    cartes.h
+
+LIBS = /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.65.1 /usr/lib/x86_64-linux-gnu/libboost_system.so.1.65.1
+
+HEADERS += \
+    cartes.h
+
+
+HEADERS += \
+    cartes.h \
+    cartes.h
+
+LIBS = /usr/lib/x86_64-linux-gnu/libboost_thread.so.1.65.1 /usr/lib/x86_64-linux-gnu/libboost_system.so.1.65.1
+
+HEADERS += \
+    cartes.h

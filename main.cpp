@@ -2,6 +2,8 @@
 #include <boost/thread/thread.hpp>
 #include <string>
 
+#include "cartes.h"
+
 using namespace std;
 using namespace boost;
 
